@@ -39,7 +39,7 @@ By leveraging **both general and deep knowledge**, we aim at building an AI that
 
 ## Quick Start
 
-```
+```bash
 # clone the repo
 git clone https://github.com/microsoft/visual-chatgpt.git
 
